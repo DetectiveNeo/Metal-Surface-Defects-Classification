@@ -88,7 +88,7 @@ Below is the architecture summary:
 - **Validation Accuracy:** 63.89%  
 - **Test Accuracy:** 75.60%  
 
-![Classification Result](Classification_Results.png)
+![Classification Result](images_for_readme/Classification_Results.png)
 
 
 
